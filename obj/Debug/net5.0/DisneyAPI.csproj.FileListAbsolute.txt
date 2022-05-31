@@ -1,0 +1,7 @@
+C:\Users\Bauti\Documents\.net\DisneyAPI\obj\Debug\net5.0\DisneyAPI.csproj.AssemblyReference.cache
+C:\Users\Bauti\Documents\.net\DisneyAPI\obj\Debug\net5.0\DisneyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bauti\Documents\.net\DisneyAPI\obj\Debug\net5.0\DisneyAPI.AssemblyInfoInputs.cache
+C:\Users\Bauti\Documents\.net\DisneyAPI\obj\Debug\net5.0\DisneyAPI.AssemblyInfo.cs
+C:\Users\Bauti\Documents\.net\DisneyAPI\obj\Debug\net5.0\DisneyAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bauti\Documents\.net\DisneyAPI\obj\Debug\net5.0\DisneyAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bauti\Documents\.net\DisneyAPI\obj\Debug\net5.0\DisneyAPI.MvcApplicationPartsAssemblyInfo.cache
